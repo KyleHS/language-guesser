@@ -1,0 +1,25 @@
+{
+  "name": "language",
+  "version": "1.0.0",
+  "description": "Script that guesses the language that is typed into Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "JavaScript",
+    "franc",
+    "langs",
+    "code",
+    "programming",
+    "npm",
+    "js"
+  ],
+  "author": "Kyle Musegades",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
